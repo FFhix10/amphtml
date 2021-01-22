@@ -46,6 +46,6 @@
     "@polymer/polymer": "1.2.5-npm-test.2",
 
     "webcomponents.js": "^0.7.22",
-    "web-animations-js": "2.2.2"
+    "web-animations-js": "2.3.2"
   }
 }
