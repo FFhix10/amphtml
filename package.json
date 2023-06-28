@@ -155,7 +155,7 @@
     "lolex": "5.1.2",
     "markdown-link-check": "3.8.3",
     "minimatch": "3.0.4",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "mocha": "8.2.0",
     "mocha-silent-reporter": "1.0.0",
     "morgan": "1.10.0",
